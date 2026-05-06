@@ -4,5 +4,4 @@ A React-based movie search application that allows users to discover and explore
 add frontend and app.js main.js
 backend 
 sever app.js server
-client
 
